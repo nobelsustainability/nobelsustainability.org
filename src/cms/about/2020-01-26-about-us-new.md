@@ -197,34 +197,36 @@ sectionFour:
         image: /images/kristian.png
       name: Kristian Vangsgaard
       text: >-
-        In 2017, Kristian Vangsgaard entered the Nobel Sustainability Trust as a
-        Global Brand Ambassador. He has a background in entrepreneurship, brand
+        Kristian Vangsgaard is the Global Brand Ambassador for the Nobel
+        Sustainability Trust. He is deeply committed to building awareness and
+        support for NST among citizens, businesses and governing bodies
+        worldwide. He is a key-player in establishing public-private
+        partnerships, building global network with academia and diplomacy as
+        well as identifying and supporting innovative and extraordinary projects
+        and ideas within sustainability.
+
+
+        He has a background of more than 20 years in entrepreneurship, brand
         development and in the automobile and food & beverages industry. In his
-        very versatile career, his travels around the world made him realize
-        that immediate action is needed, in order to hand over a more balanced
-        planet to the generations to come. Kristian Vangsgaard works globally to
-        gather financial contributions, and sign up country representatives.
-        This work enables NST to be present in as many countries as possible,
-        forming a community of doctors and professors that ensures innovation
-        and talent development within the field, securing a better future.
+        very versatile international career, he came to realize that immediate
+        action is needed on all levels in order to hand over a more balanced
+        planet to the generations to come.
 
 
-        In the recent couple of of years, Kristian Vangsgaard has taken the lead
-        on establishing the NST Award as an international event. Working closely
+        Since joining NST in 2017, Kristian Vangsgaard has taken the lead on
+        establishing the NST Award as an international event. Working closely
         with various governments and their respective collaborative financial
         institutions - hence engaging all strategic partners - the aim is to
-        make the NST Awards an event in a world wide setting through a 10 year
-        plan.
+        make the NST Awards an event in a worldwide setting within the next
+        decade.
 
 
-        Several initiatives need to be put into work *now*. In order to connect
-        NST more closely with citizens, businesses and organizations, NST has
-        appointed Kristian Vangsgaard as head of the initiative, providing him
-        with the necessary means to make NST a more commercialized and modern
-        organization. Looking forward, the NST will appear in an increasing
-        amount of new arenas such as a social networks, education platforms,
-        mastermind events for exclusive small groups of 20 participants and
-        several more areas.
+        Several crucial initiatives need action *here and* *now*. NST has a
+        priority to connect closer with citizens, businesses and organizations
+        on global and local level. Kristian Vangsgaard heads initiatives that
+        will modernize NST and develop its more commercial activities e.g.
+        social networks, learning platforms and mastermind event for experts and
+        innovators within diverse fields of sustainability.
       title: Global Brand ambassador
     - image:
         alt: Kevin Lee
