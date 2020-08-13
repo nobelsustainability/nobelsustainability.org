@@ -179,27 +179,6 @@ sectionThree:
 sectionFour:
   employeeOne:
     - image:
-        alt: Stina Nordlander
-        image: /images/stina.png
-      name: Stina Nordlander
-      text: >-
-        Miss Stina Nordlander graduated 2016 from junior college after studying
-        natural sciences with the focus on biology. After graduating she worked
-        as a natural science and mathematics teacher for 10-11 year old school
-        children at a middle level school in the Northern Swedish town of Umeå.
-
-
-        Early in 2015, Stina Nordlander began working at a local refugee
-        accommodation as a Swedish teacher. Her programs went viral on Youtube.
-
-
-        She has won multiple titles in beauty contests during recent years
-        placing second in the Miss World Sweden competition of 2015 and became
-        the first runner-up for the Swedish representative to the competition of
-        Miss World 2015. She was also crowned Miss Supranational Sweden 2015.
-        Currently Miss Nordlander is working as Chief Operating Officer and
-        Office Manager for the Nobel Sustainability Trust Foundation.
-    - image:
         alt: James Burton
         image: /images/james.png
       name: James Burton
