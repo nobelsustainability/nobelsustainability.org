@@ -11,62 +11,10 @@ sectionOne:
   offsetImage:
     alt: map
     image: /images/map.svg
-  text1: >-
-    NST is a Swiss foundation, established in 2007 by four members of the Nobel
-    family. Formerly known as the Nobel Charitable Trust, its name was changed
-    to the Nobel Sustainability Trust in 2011 so as to more accurately represent
-    its role and activities. Its board of trustees today includes five members
-    of the Nobel Family.
-
-
-    To promote the activities described above, NST encourages research,
-    development, action and implementation of sustainable solutions. A key
-    component will be the creation of Awards for Sustainability. These awards,
-    given annually, will form an accolade for those who make outstanding
-    contributions to sustainability. The winners will be presented with the
-    awards at a dinner held in connection with a symposium, organised by NST, in
-    major cities around the world.
-  text2: >-
-    NST, via its secretariat and main office in Switzerland and its
-    representative offices in Sweden, Pakistan, Japan and Costa Rica, will
-    assist in the selection of universities from various countries, which will
-    collect the proposed projects and candidates. One of these will also be the
-    Award Coordinating Entity (“ACE”), This entity, in consultation with NST,
-    will select and maintain the list of sourcing universities. The ACE will
-    create a committee, the Sustainability Award Committee, which will have
-    final say in the selection of the award winners. This body will include
-    members from various academic institutions. NST's different offices will
-    plan and manage the annual conferences and related events. It will liaise
-    with the media and organise and propose invitations for the award
-    ceremonies.
-
-
-    Stringent efforts will be made to ensure that the NST Awards will be
-    recognised, by all concerned, as being independent of the traditional Nobel
-    Prizes and that no administrative or commercial relations exist between the
-    Nobel Foundation and NST.
-
-
-    NST’s financial support will come from sovereign entities, family offices
-    and corporations who support its agenda. A clear understanding of the origin
-    of these funds is essential, so NST will work with licensed and registered
-    entities, which are regulated by the financial authorities in their
-    respective jurisdictions.
+  text1: No info found
+  text2: No info found
 sectionTwo:
-  column1: >-
-    The members of the Nobel family, founders of the Nobel Sustainability Trust
-    (“NST”) have, with great concern, been observing the devastation of the
-    world’s vital, natural and non-renewable resources. This overconsumption has
-    led to an increase in global temperatures and pollution of land, food, water
-    and air. The founders believe that the economic and social health of
-    civilisation will, to a large extent, depend on the availability of energy
-    and a sustainable approach to agriculture, forestry, industrial
-    manufacturing and water reclamation. This will require substantial
-    intellectual and financial effort. It is the aim of NST to assist with this
-    process. The objective of NST is to improve quality of life, which is,
-    today, threatened by pollution, climate change and depletion of natural
-    resources. Sufficient food, water, air and energy, in clean conditions, is
-    essential to reaching this objective.
+  column1: No info found
   column2: |-
     **NST aims to contribute in the following areas:**
 
@@ -81,26 +29,7 @@ sectionThree:
         alt: Michael Nobel
         image: /images/michael.png
       name: Michael Nobel
-      text: >-
-        The chairman of NST, university professor Michael Nobel, PhD,
-        participated in the introduction of magnetic resonance imaging as
-        European vice president of Fonar Corp. From 1991 to 2007 he served as
-        Executive Chairman of the MRAB Group, a company providing MRI services
-        to Swedish hospitals. From 1991 to 2006 he was Vice Chairman and
-        Chairman of the Board of the Nobel Family. He has been consultant to
-        Unesco in Paris and the United Nations Social Affairs Division in
-        Geneva. Michael Nobel is presently chairman or board member of six
-        international companies in medical diagnostics, treatment and
-        information and in five non-for-profit organizations.
-
-
-        He is appointed distinguished professor at the Advanced Research
-        Institute of Natural Science and Technology at Osaka City University and
-        as guest professor at the Seisa and Soka Universities in Japan. Michael
-        Nobel has received twelve honorary doctorates and professorships from
-        universities around the world and fourteen other types of awards for his
-        work in medical innovation and conflict resolution as well as in other
-        fields.
+      text: No info found
     - image:
         alt: Peter Nobel
         image: /images/peter.png
