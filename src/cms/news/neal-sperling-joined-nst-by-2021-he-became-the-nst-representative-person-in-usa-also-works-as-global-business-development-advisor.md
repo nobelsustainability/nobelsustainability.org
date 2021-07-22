@@ -4,7 +4,7 @@ title: >-
   USA also works as Global Business Development Advisor. 
 date: 2021-07-22T13:16:44.710Z
 ---
-![neal sperling](/images/nealsperling.jpg "neal sperling")
+![neal sperling]( "neal sperling")
 
 
 
