@@ -8,7 +8,7 @@ image:
   image: /images/building.jpg
 firstSection:
   column1: >-
-    The members of the Nobel family and founders of NST have, with great
+    the members of the Nobel family and founders of NST have, with great
     concern, been observing the devastation of the world’s vital, natural and
     non-renewable resources. This over-consumption has led to an increase in
     global temperatures and pollution of land, food, water and air. The founders
@@ -19,14 +19,10 @@ firstSection:
     efforts. It is the aim of NST to assist with this process.
 
 
-
-
     The mission of the Nobel Sustainability Trust is therefore to promote a
     sustainable economic growth that preserves and ultimately enhances the
     living systems on the planet, create opportunities for people and harness
     human ingenuity in support for a prosperous common future.
-
-
 
 
     By participating in and supporting the Trust, its programs and activities,
