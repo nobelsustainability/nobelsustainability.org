@@ -273,7 +273,7 @@ sectionFour:
         Laureate, CEO of NST Media for the Nobel NST Sustainable Development
         Fund. He is also the President of the NST Foundation China Association
         and nominee for the Nobel NST Prize.
-      title: CEO of NST Media
+      title: NST Media
     - image:
         alt: Maqsood Ahmad Naz
         image: /images/Maqsood-Naz-200px.jpg
