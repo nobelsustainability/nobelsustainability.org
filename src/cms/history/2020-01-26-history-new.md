@@ -16,9 +16,9 @@ sectionOne:
 
       the first to develop modern plywood, cut with a rotary lathe.
   columnTwo:
-    heading: Ludwig Nobel
+    heading: Ludvig Nobel
     image:
-      alt: Ludwig Nobel
+      alt: Ludvig Nobel
       image: /images/ludwig.jpg
     text: >-
       One of his sons, Ludvig Nobel, was the founder of the machine-building
