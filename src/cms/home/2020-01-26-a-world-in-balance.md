@@ -1,8 +1,8 @@
 ---
 title: A world in balance
 subheading: >-
-  We bring public awareness to the issues of pollution and clean energy and
-  encouraging change
+  We encourage change by raising awareness to the issue of pollution and the
+  possibilities of clean, renewable energy
 image:
   alt: roof of solar panels under a blue sky
   image: /images/building.jpg
@@ -89,7 +89,7 @@ secondSection:
   heading: Sustainable Technology Conference
   image:
     alt: displaying a forest full of green trees from above
-    image: /images/trees.jpg
-    text: 'Creation a pollution-free, life-sustaining environment for all'
+    image: /images/Untitled-1.png
+    text: 'Creating a clean, biodiverse, life-sustaining environment for all'
 ---
 
